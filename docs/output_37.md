@@ -1,0 +1,9 @@
+# Smartsupp — Formulaire de contact
+## Pourquoi utiliser le formulaire de contact ? Afin de toujours pouvoir répondre au message d'un client, nous vous recommandons d'utiliser le formulaire de c
+Afin de toujours pouvoir répondre au message d'un client, nous vous recommandons d'utiliser le formulaire de contact dans lequel les clients inscrivent leurs coordonnées avant de vous poser une question. Cela vous permettra de répondre aux messages que vous avez manqué pendant que vous étiez en ligne ou hors ligne.
+Si vous n'avez pas recueilli les coordonnées du client, il n'est pas possible de répondre après que le visiteur a quitté le site et rien ne peut être saisi dans le champ de texte du message.
+Ce formulaire apparaîtra toujours lorsque vous êtes hors ligne pour recueillir les coordonnées du client. Le formulaire en mode hors ligne est toujours activé, de sorte que vous ne manquerez aucune des questions de vos clients lorsque vous n'êtes pas en ligne. Si vous êtes un client du forfait STANDARD ou PRO, vous pouvez activer le formulaire pour recueillir les coordonnées des clients même lorsque vous êtes en ligne.
+Afin de collecter les coordonnées de vos clients même lorsque vous êtes en ligne allez simplement dans les Paramètres(1) → Chatbox (2) → Formulaire de contact (3) et activez l'option “Afficher le formulaire également lorsque vous êtes en ligne” (4).
+Vous pouvez également personnaliser les informations que vous souhaitez collecter auprès de vos clients. Outre l’adresse email, qui est toujours obligatoire, vous pouvez choisir de collecter également le nom, le numéro de téléphone ou le groupe (les groupes ne fonctionnent que pour les utilisateurs du forfait PRO). 
+Vous ne savez toujours pas quoi faire ? Contactez-nous via le chat box de votre tableau de bord et nous nous ferons un plaisir de vous contacter. Veuillez noter que le service clientèle n’est inclus que dans les formules payantes.
+

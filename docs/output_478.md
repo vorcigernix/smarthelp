@@ -1,0 +1,8 @@
+# Smartsupp — ¿Smartsupp ralentizará mi sitio web?
+## Nos tomamos muy en serio el rendimiento del sitio y optimizamos constantemente nuestro script para mejorar el tiempo de carga. También utilizamos varias he
+Nos tomamos muy en serio el rendimiento del sitio y optimizamos constantemente nuestro script para mejorar el tiempo de carga. También utilizamos varias herramientas y servicios como CDN (content delivery network) para cargar nuestro script súper rápido en cualquier lugar del mundo.
+Las herramientas de medición de la velocidad de la página no siempre dan una imagen precisa cuando se analizan scripts como Smartsupp. A menudo se pueden ver los mismos problemas con el script de Google Analytics. El script de Smartsupp se carga de forma asíncrona, lo que significa que no impide que el resto de tu página web se cargue mientras se descarga. Las advertencias que ves en varias herramientas de velocidad de páginas no significan que nuestro script ralentice tu web. El tiempo de carga de nuestro script es insignificante en la mayoría de las páginas web.
+Detalles del tiempo de carga de Smartsupp script
+El tamaño del script de chat de Smartsupp es de 184 KB. El tamaño de todos los elementos de Smartsupp cuando se cargan es de 232 KB y tarda 350 ms en cargarse en una conexión de Internet de banda ancha. El script es asincrónico, así que no ralentiza la carga de la web. Puedes ver los detalles de la carga del script aquí:
+¿Sigues confundido? Contáctanos a través de la caja de chat en tu panel de conversaciones y estaremos encantados de comunicarnos cotigo. Ten en cuenta que el servicio al cliente está incluido solo en los paquetes pagos.
+

@@ -1,0 +1,19 @@
+# Smartsupp — Ejecución automática de Smartsupp
+## En este artículo, encontrarás 4 formas de iniciar Smartsupp automáticamente. Inicia el panel de Smartsupp automáticamente cuando inicies tu navegador. Simp
+En este artículo, encontrarás 4 formas de iniciar Smartsupp automáticamente.
+Inicia el panel de Smartsupp automáticamente cuando inicies tu navegador.
+Simplemente abre el panel de Smartsupp en el navegador y haz clic derecho en él en la barra superior. Verás un menú en el que puede seleccionar la opción "Pin". Anclado de esta manera, el panel de Smartsupp se carga automáticamente cada vez que inicias el navegador.
+Fija el acceso directo del navegador del panel de Smartsupp a la barra de Inicio.
+También puedes anclar el navegador con el panel de Smartsupp a la barra de Inicio, la barra inferior de tu computadora. Primero, crea un acceso directo a la ventana del panel de Smartsupp en tu escritorio. Simplemente abre Smartsupp en tu navegador preferido. En la parte superior izquierda de la dirección web, es posible que observes un pequeño icono de candado.
+Haz clic aquí con el botón izquierdo del mouse, mantén presionado y arrastra el ícono al escritorio. Suelta el botón izquierdo del mouse allí. Esto creará un icono de navegador en el escritorio. Luego, haz clic con el botón izquierdo en él nuevamente, mantén presionado y arrastra el ícono a la barra inferior de la computadora. Esto fijará la ventana del panel de Smartsupp a la barra de tareas. Permanece allí incluso después de apagar el navegador. Siempre tienes acceso rápido a él.
+Fija la aplicación de escritorio Smartsupp (Windows) a la barra de Inicio.
+¿Sabías que no solo tienes que abrir Smartsupp en un navegador? Hay una opción para convertirlo en una aplicación de escritorio: simplemente créalo a través de Microsoft Edge. Es un navegador que puedes no usar normalmente, pero se puede encontrar en cualquier Windows. Abre Smartsupp en Microsoft Edge, haz clic en el menú en la esquina superior derecha y mueve el mouse a la opción "Aplicaciones". Allí seleccionas “Instalar esta página como una aplicación” (ver imagen) y confirmas. La aplicación se abrirá inmediatamente.
+Para brindarte un fácil acceso a la aplicación cada vez que inicies tu computadora, puedes anclarla a la barra de Inicio. Puedes utilizar el procedimiento descrito en la sugerencia anterior, o si tienes la aplicación abierta actualmente, puede hacer clic con el botón derecho en su icono y seleccionar la opción de pin.
+Configura Smartsupp para que se inicie tan pronto enciendas tu computadora (Windows).
+¿A veces te olvidas de abrir Smartsupp? Te mostraremos cómo hacerlo para que no tengas que pensar en ello en absoluto. Agregaremos un acceso directo al navegador / aplicación de escritorio Smartsupp a los programas que se inician automáticamente cada vez que enciendes tu computadora. Todo lo que tenemos que hacer es pegar el enlace de Smartsupp en la carpeta "Inicio".
+Usa el atajo de teclado Win + R.
+En el cuadro de diálogo, escribe "shell:inicio" y confirma "Aceptar".
+Se abrirá una carpeta en la que insertarás manualmente el acceso directo del navegador / aplicación de escritorio Smartsupp.
+Nota: Puedes encontrar el acceso directo del navegador en el escritorio y simplemente arrástralo a la carpeta "Inicio". Para encontrar la aplicación Smartsupp, escribe su nombre en la ventana de búsqueda en la barra de Inicio y cuando la veas en las opciones de búsqueda, haz clic con el botón derecho y selecciona “Abrir ubicación de archivo”. Desde la carpeta abierta, simplemente arrastra el icono a la carpeta "Inicio" nuevamente.
+¿Sigues confundido? Contáctanos a través de la caja de chat en tu panel de conversaciones y estaremos encantados de comunicarnos cotigo. Ten en cuenta que el servicio al cliente está incluido solo en los paquetes pagos.
+

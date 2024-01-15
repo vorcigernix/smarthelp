@@ -1,0 +1,8 @@
+# Smartsupp — Wird Smartsupp meine Website verlangsamen?
+## Wir nehmen die Leistung der Website sehr ernst und optimieren unser Skript ständig, um die Ladezeit zu verbessern. Wir verwenden auch verschiedene Tools un
+Wir nehmen die Leistung der Website sehr ernst und optimieren unser Skript ständig, um die Ladezeit zu verbessern. Wir verwenden auch verschiedene Tools und Dienste wie CDN (Content Delivery Network), um unser Skript überall auf der Welt superschnell zu laden.
+Tools zur Messung der Seitengeschwindigkeit liefern bei der Analyse von Skripten wie Smartsupp nicht immer ein genaues Bild. Bei Google Analytics-Skripten treten häufig dieselben Probleme auf. Das Smartsupp-Skript wird asynchron geladen, was bedeutet, dass der Rest Ihrer Website beim Herunterladen nicht geladen wird. Warnungen, die in verschiedenen Tools für die Seitengeschwindigkeit angezeigt werden, bedeuten nicht, dass unser Skript Ihre Website verlangsamt. Die Ladezeit unseres Skripts ist auf den meisten Websites vernachlässigbar.
+Details zur Ladezeit des Smartsupp-Skripts
+Die Größe des Smartsupp-Chat-Skripts beträgt 184 KB. Die Größe aller Smartsupp-Elemente beim Laden beträgt 232 KB und das Laden über eine Breitband-Internetverbindung dauert 350 ms. Das Skript ist asynchron, sodass das Laden der Website nicht verlangsamt wird. Details zum Laden von Skripten finden Sie hier:
+Sind Sie noch verwirrt? Kontaktieren Sie uns über die Chat-Box in Ihrem Dashboard und wir werden uns gerne mit Ihnen in Verbindung setzen. Bitte beachten Sie, dass der Kundenservice nur in kostenpflichtigen Paketen enthalten ist.
+

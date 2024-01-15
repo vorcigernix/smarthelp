@@ -1,0 +1,14 @@
+# Smartsupp — Chatbots multi-langues
+## Cette fonctionnalité est disponible uniquement dans le forfait Standard et PRO.   Vous avez plusieurs domaines pour différentes langues ou un site Web mult
+Cette fonctionnalité est disponible uniquement dans le forfait Standard et PRO.
+Vous avez plusieurs domaines pour différentes langues ou un site Web multilingue ? Dans les deux cas, vous trouverez très utile de configurer et de maintenir un chatbot distinct pour chaque langue. Dans ce tutoriel, nous allons vous montrer comment créer et utiliser plusieurs chatbots dans un seul compte :
+Etape 1: Allez dans l'onglet Chatbot et créez un nouveau chatbot en cliquant sur le bouton "+ Ajouter un nouveau". Dans le constructeur de chatbot, vous pouvez préparer la structure du chatbot et rédiger les textes. Si vous avez besoin de plus d'informations sur la façon d'utiliser le constructeur de chatbot, vous pouvez consulter ce tutoriel spécialement consacré à ce sujet. 
+Une fois le chatbot terminé, retournez à l'onglet chatbot et vous le verrez dans l'aperçu du chatbot. Ensuite, cliquez sur les trois points à droite et choisissez l'option "Dupliquer".
+Si vous avez déjà un chatbot que vous souhaitez traduire dans une autre langue, il n'est pas nécessaire d'en créer un nouveau. Vous pouvez simplement dupliquer le chatbot existant de la même manière que celle décrite ci-dessus.
+Etape 2: Ouvrez le chatbot dupliqué et traduisez-le dans la langue de votre choix. Toutes les modifications que vous apportez seront automatiquement enregistrées.
+Etape 3:Cliquez sur les Paramètres (1) et choisissez Où (2) vous souhaitez que le chatbot soit déclenché. Choisissez ensuite l'option Sur des pages spécifiques (3). Vous pouvez sélectionner soit une adresse URL spécifique, soit un titre où le chatbot sera affiché.
+Si vous sélectionnez l'option "égale/n'égale pas à", le chatbot sera / ne sera pas déclenché uniquement sur une adresse URL spécifique de votre choix. Si vous sélectionnez l'option "contient/ne contient à", le chatbot sera / ne sera pas déclenché sur toutes les pages qui contiennent l'adresse URL de votre choix - par ex. www.eshop.com/products
+Avertissement : N'oubliez pas de configurer une URL/un titre différent pour chaque nouveau chatbot. Si vous ne sélectionnez pas l'adresse URL ou un titre, le chatbot sera automatiquement déclenché sur tous vos domaines/pages. Une fois qu'un chatbot est affiché dans le chat box, les autres chatbots ne seront plus déclenchés.
+Remarque: Si vous avez 2 chatbots ou plus avec les mêmes conditions, seul le chatbot qui a été créé en premier sera affiché dans le chat box.
+Vous ne savez toujours pas quoi faire ? Contactez-nous via le chat box de votre tableau de bord et nous nous ferons un plaisir de vous contacter. Veuillez noter que le service clientèle n’est inclus que dans les formules payantes.
+

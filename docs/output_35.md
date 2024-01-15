@@ -1,0 +1,15 @@
+# Smartsupp — Report Scam
+## Phishing scams use fraudulent emails and websites to trick users into disclosing private account or login information. They can also request payment in any
+Phishing scams use fraudulent emails and websites to trick users into disclosing private account or login information. They can also request payment in any form and it is your responsibility to make sure that the website is a trustworthy one.
+How to avoid a Phishing scam? Here’s some general guidelines.
+Install an Anti-Phishing Toolbar. Most popular Internet browsers can be customized with anti-phishing toolbars. Such toolbars run quick checks on the sites that you are visiting and compare them to lists of known phishing sites. If you stumble upon a malicious site, the toolbar will alert you about it.
+Think before you click. A phishing email may claim to be from a legitimate company and when you click the link to the website, it may look exactly like the real website. When in doubt, go directly to the source rather than clicking a potentially dangerous link. Do not open any attachments or pop-up screens from sources you are not familiar with.
+Think before you share. Do not share your personal information, bank details and do not send any photo of your ID card/passport unless you are 100% sure that the website is perfectly safe and secured. When in doubt, you can make deeper research, ask for a phone number and give them a call.
+What to do if you are a victim of a phishing scam?
+If you are a victim of a scam, you must definitely report the case to the Police and provide all the information that you have. As Smartsupp is GDPR compliant, we cannot openly disclose information about the account owners. If the Police request information from us, we will surely provide them with what they need for their investigation.
+How does Smartsupp work?
+Our service is openly accessible in the same manner as Facebook account, Gmail or Google Analytics. Users set up accounts and continue in a self service manner. Due to technological and legal limitations, it is not possible for us to check conversations and domains for content or activities. Even if we decided to scrape websites or use third party categories it would be impossible to detect a scammer. We can only find out information the website is willing to share and we are not responsible for the user’s activity.
+If you suspect a website to be a phishing website, you can fill up the above form. If we detect a scam, we will immediately take actions such as blocking the account and the domain. If we weren’t able to detect a scam from the website, then unfortunately, we won’t be able to take any further steps.
+In both cases, we highly recommend reporting those websites to the Police or to the concerned authorities. If they contact us, we will fully cooperate with them as Smartsupp does not support illegal practices.
+Still confused? Contact us via the chat box in your dashboard and we’ll be happy to get in touch with you. Please note that customer service is included only in paid packages.
+

@@ -1,0 +1,8 @@
+# Smartsupp — Formulario de contacto
+## ¿Por qué usar un formulario de contacto? Para poder responder siempre al mensaje de un cliente, recomendamos utilizar el Formulario de contacto en el que l
+Para poder responder siempre al mensaje de un cliente, recomendamos utilizar el Formulario de contacto en el que los clientes escriben su información de contacto antes de hacerte una pregunta. Esto te permitirá responder a cualquier mensaje en online u offline incluso después de que el visitante haya abandonado la web.
+Si no has recopilado la información de contacto del visitante, no es posible responder después de que haya abandonado la web y no se puede ingresar nada en el campo de texto del mensaje.
+El formulario en el modo offline siempre está activado para recopilar la información de contacto del cliente, por lo que podrás responder a las preguntas de cada cliente. Si eres cliente del paquete STANDARD o PRO, puedes configurar el formulario para recopilar la información de contacto de los clientes incluso online. ¿Cómo? Simplemente ve a Ajustes (1) → Caja de chat (2) →Formulario de contacto (3) y simplemente activa la opción "Mostrar el formulario también cuando estés online" (4).
+También puedes personalizar qué información deseas recopilar de tus clientes. Aparte del correo electrónico, que siempre es obligatorio, puedes optar por recopilar también el nombre, el teléfono o el grupo (los grupos funcionan solo para usuarios del paquete PRO). 
+¿Sigues confundido? Contáctanos a través de la caja de chat en tu panel de conversaciones y estaremos encantados de comunicarnos cotigo. Ten en cuenta que el servicio al cliente está incluido solo en los paquetes pagos.
+

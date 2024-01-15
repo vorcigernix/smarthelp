@@ -1,0 +1,9 @@
+# Smartsupp — Boîte de discussion dans votre application mobile
+## Vous pouvez ajouter une boîte de discussion à votre application mobile en utilisant le lien de la page de discussion. Vous pouvez le trouver dans les Param
+Vous pouvez ajouter une boîte de discussion à votre application mobile en utilisant le lien de la page de discussion. Vous pouvez le trouver dans les Paramètres > Chaînes > Page de chat ou après avoir cliqué sur votre photo de profil ici. Liez cette URL comme cible d'un élément cliquable dans votre application (le moyen le plus courant est un bouton). Il existe deux façons d'implémenter le comportement lorsque l'utilisateur clique sur l'élément :
+leur navigateur par défaut sera ouvert avec la page de la boîte de discussion (l'utilisateur quitte votre application mais peut l'utiliser tout en discutant avec vous),
+le navigateur de l'application sera ouvert avec la page de la boîte de discussion (l'utilisateur reste dans votre application mais ne peut pas l'utiliser autrement que pour discuter avec vous jusqu'à ce qu'il ferme la discussion).
+Consultez les méthodes avec votre développeur d'application mobile qui mettra en œuvre le comportement. Si vous souhaitez permettre aux utilisateurs de votre application mobile de vous contacter directement à partir de l'application via le chat, renvoyez le développeur de votre application à cette page et consultez les deux options de mise en œuvre.
+Veuillez noter que la boîte de discussion elle-même n'apparaîtra pas sur l'application. Seul le lien de la page de chat peut être ajouté dans l'application et la boîte de discussion s'ouvrira dans un autre onglet si le visiteur clique sur le lien.
+Vous ne savez toujours pas quoi faire ? Contactez-nous via le chat box de votre tableau de bord et nous nous ferons un plaisir de vous contacter. Veuillez noter que le service clientèle n’est inclus que dans les formules payantes.
+
