@@ -11,10 +11,11 @@ const SUPABASE_URL = ensureGetEnv("SUPABASE_URL");
 const SUPABASE_SERVICE_ROLE_KEY = ensureGetEnv("SUPABASE_SERVICE_ROLE_KEY");
 
 const supabaseClient = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
-//const openAiConfiguration = new Configuration({ apiKey: OPENAI_KEY });
-//const openai = new OpenAIApi(openAiConfiguration);
 
-const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
+const openai = new OpenAI({
+  organization: "org-aGobPNVEBHfoIHw8dRWKD1uP",
+  apiKey: OPENAI_API_KEY,
+});
 
 export const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
@@ -41,9 +42,6 @@ export async function handler(req: Request): Promise<Response> {
     const moderationResponse = await openai.moderations.create({
       input: sanitizedQuery,
     });
-    // const moderationResponse = await openai.createModeration({
-    //   input: sanitizedQuery,
-    // });
 
     const [results] = moderationResponse.results;
 
@@ -54,10 +52,6 @@ export async function handler(req: Request): Promise<Response> {
       });
     }
 
-    // const embeddingResponse = await openai.createEmbedding({
-    //   model: "text-embedding-ada-002",
-    //   input: sanitizedQuery.replaceAll("\n", " "),
-    // });
     const embeddingResponse = await openai.embeddings.create({
       model: "text-embedding-ada-002",
       input: sanitizedQuery.replaceAll("\n", " "),
@@ -103,7 +97,7 @@ export async function handler(req: Request): Promise<Response> {
       contextText += `${content.trim()}\n---\n`;
     }
 
-    const stream = await openai.chat.completions.create({
+    const completionOptions = {
       messages: [
         {
           "role": "system",
@@ -129,15 +123,36 @@ export async function handler(req: Request): Promise<Response> {
         { "role": "user", "content": sanitizedQuery },
       ],
       model: "gpt-4-1106-preview",
+      max_tokens: 512,
+      temperature: 0.2,
       stream: true,
+    };
+
+    // for await (const chunk of stream) {
+    //   console.log(chunk.choices[0].delta.content?.trim());
+    // }
+
+    // const readable = new ReadableStream({
+    //   async start(controller) {
+    //     for await (const chunk of stream) {
+    //       controller.enqueue(chunk.choices[0]?.delta.content || "");
+    //       //console.log(chunk.choices[0] || "");
+    //     }
+    //     controller.close();
+    //   },
+    // });
+
+    // The Fetch API allows for easier response streaming over the OpenAI client.
+    const response = await fetch("https://api.openai.com/v1/chat/completions", {
+      headers: {
+        Authorization: `Bearer ${OPENAI_API_KEY}`,
+        "Content-Type": "application/json",
+      },
+      method: "POST",
+      body: JSON.stringify(completionOptions),
     });
 
-    //log chunked response to console
-    for await (const chunk of stream) {
-      console.log(chunk.choices[0].delta.content?.trim());
-    }
-
-    return new Response(stream.toReadableStream(), {
+    return new Response(response.body, {
       headers: {
         ...corsHeaders,
         "Content-Type": "text/event-stream",

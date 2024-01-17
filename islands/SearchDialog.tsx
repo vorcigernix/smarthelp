@@ -1,7 +1,6 @@
 import { useSignal } from "@preact/signals";
 import { useRef } from "preact/hooks";
 import { IS_BROWSER } from "$fresh/runtime.ts";
-import type { CreateCompletionResponse } from "openai";
 
 export default function SearchDialog() {
   const isLoading = useSignal(false);
@@ -29,7 +28,7 @@ export default function SearchDialog() {
         return;
       }
 
-      const completionResponse: CreateCompletionResponse = JSON.parse(e.data);
+      const completionResponse = JSON.parse(e.data);
       const text = completionResponse.choices[0].text;
 
       answer.value += text;
@@ -44,7 +43,7 @@ export default function SearchDialog() {
         <input
           name="search"
           ref={inputRef}
-          placeholder={`Search: e.g. try "What is pgvector?"`}
+          placeholder={`Search: e.g. try "How do I install Smartsupp?"`}
           disabled={!IS_BROWSER}
           class={`flex-1 px-4 py-2 bg-white rounded-md border-1 border-gray-300 hover:border-green-400 transition duration-300 outline-none disabled:(opacity-50 cursor-not-allowed)`}
         />

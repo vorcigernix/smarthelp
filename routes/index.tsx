@@ -5,15 +5,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Deno Fresh OpenAI Vector Search</title>
+        <title>Demo: Smartsupp Smart Help </title>
         <meta
           name="description"
-          content="Template for building your own custom ChatGPT style doc search powered
-          by Fresh, Deno, OpenAI, and Supabase"
+          content="Sample AI application allowing you to ask about Smartsupp Help articles."
         />
       </Head>
       <div class="p-4 mx-auto max-w-screen-md font-mono">
-        <h1 class="text-3xl mb-4">Deno Fresh OpenAI Vector Search</h1>
+        <h1 class="text-3xl mb-4">Smartsupp Help</h1>
         <SearchDialog />
       </div>
     </>
